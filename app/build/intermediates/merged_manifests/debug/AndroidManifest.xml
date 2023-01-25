@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.studentprogresstracking"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="26"
+        android:targetSdkVersion="32" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.StudentProgressTracking" >
+        <activity
+            android:name="com.example.studentprogresstracking.UI.COURSES.parts.details.AssessmentDetails"
+            android:configChanges="orientation|screenSize"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.studentprogresstracking.UI.COURSES.parts.details.NotesDetails"
+            android:configChanges="orientation|screenSize"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.studentprogresstracking.UI.COURSES.parts.details.InstructorsDetails"
+            android:configChanges="orientation|screenSize"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.studentprogresstracking.UI.COURSES.parts.AddOrModNotes"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:parentActivityName="com.example.studentprogresstracking.UI.COURSES.CourseList" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.studentprogresstracking.UI.COURSES.parts.AddOrModAssesments"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:parentActivityName="com.example.studentprogresstracking.UI.COURSES.CourseList" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.studentprogresstracking.UI.COURSES.parts.AddOrModifyInstructor"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:parentActivityName="com.example.studentprogresstracking.UI.COURSES.CourseList"
+            android:windowSoftInputMode="adjustPan" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.studentprogresstracking.UI.COURSES.CourseDetails"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:parentActivityName="com.example.studentprogresstracking.UI.COURSES.CourseList" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.studentprogresstracking.UI.COURSES.CourseList"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:parentActivityName="com.example.studentprogresstracking.UI.MainActivity" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.studentprogresstracking.UI.COURSES.AddOrModACourse"
+            android:configChanges="orientation|screenSize"
+            android:exported="false" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.studentprogresstracking.UI.TERM.TermDetails"
+            android:exported="false"
+            android:parentActivityName="com.example.studentprogresstracking.UI.TERM.TermList" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:configChanges="orientation|screenSize"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.studentprogresstracking.UI.TERM.TermList"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:parentActivityName="com.example.studentprogresstracking.UI.MainActivity" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.studentprogresstracking.UI.TERM.AddATerm"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:parentActivityName="com.example.studentprogresstracking.UI.TERM.TermList" >
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.example.studentprogresstracking.UI.MainActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.studentprogresstracking.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>

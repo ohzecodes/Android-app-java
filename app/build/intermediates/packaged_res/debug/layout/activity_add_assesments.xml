@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UI.COURSES.parts.AddOrModAssesments">
+
+
+    <EditText
+        android:id="@+id/AddAssessmentTitle"
+        android:layout_width="210dp"
+        android:layout_height="58dp"
+        android:ems="10"
+        android:hint="Assessment Title"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.16" />
+
+    <Spinner
+
+        android:id="@+id/AddAssessmentType"
+        android:layout_width="206dp"
+        android:layout_height="53dp"
+        android:background="@color/carolina_blue"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.517"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.298" />
+
+    <Button
+        android:id="@+id/AddAssesmentStartDatePicker"
+        style="?android:spinnerStyle"
+        android:layout_width="206dp"
+        android:layout_height="53dp"
+        android:text="startDate"
+        android:background="@color/Date_picker_bg"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.418" />
+
+    <Button
+        android:id="@+id/AddAssesmentEndDatePicker"
+
+        android:layout_width="206dp"
+        android:layout_height="53dp"
+        android:background="@color/Date_picker_bg"
+        style="?android:spinnerStyle"
+        android:text="End date"
+        android:inputType="date"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.546" />
+
+
+    <Button
+        android:id="@+id/addAssessmentSave"
+        android:layout_width="165dp"
+        android:layout_height="54dp"
+        android:text="Add Assesment"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.758" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

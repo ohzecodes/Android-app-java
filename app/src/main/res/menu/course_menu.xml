@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item   android:id="@+id/editCourseDetailsMenuOption" android:title="Edit Course Details" />
+    <item android:id="@+id/deleteCourseMenuOption"  android:title="Delete Course " />
+    <item android:id="@+id/AddInstructorMenuOption" android:title="Add Instructor" />
+    <item android:id="@+id/addAssessmentMenuOption" android:title="Add Assessment" />
+    <item android:id="@+id/addNotesMenuOption" android:title="Add Notes" />
+</menu>

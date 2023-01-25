@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--
+Brick red #d03161,
+Apricot: #ee8080,
+JetStream #bfd8d1,
+Eastern Blue: #178a94,
+Pickled Bluewood: #2b374b -->
+
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="grey_300">#e0e0e0</color>
+    <color name="black">#000</color>
+    <color name="brick_red">#d03161</color>
+    <color name="red_800">#c62828</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey_800">#424242</color>
+    <color name="eastern_blue">#178a94</color>
+    <color name="pickled_bluewood">#2B374B</color>
+    <color name="carolina_blue">#449dd1</color>
+    <color name="mint_cream"> #f1f7ed</color>
+    <color name="button_color_1">@color/brick_red</color>
+    <color name="button_color_2">@color/carolina_blue</color>
+    <color name="fab_bg">@color/carolina_blue</color>
+    <color name="text_color_recycler">@color/mint_cream</color>
+    <color name="Date_picker_bg">@color/carolina_blue</color>
+
+</resources>

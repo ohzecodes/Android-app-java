@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UI.COURSES.AddOrModACourse">
+
+    <Button
+        android:id="@+id/AddAssesmentStartDatePicker"
+        style="?android:spinnerStyle"
+
+        android:layout_width="206dp"
+        android:layout_height="53dp"
+        android:background="@color/Date_picker_bg"
+        android:text="startDate"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.327" />
+
+    <Button
+        android:id="@+id/AddAssesmentEndDatePickerButton"
+
+        style="?android:spinnerStyle"
+        android:layout_width="206dp"
+        android:layout_height="53dp"
+        android:background="@color/Date_picker_bg"
+        android:inputType="date"
+
+        android:text="End date"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.451" />
+
+    <Spinner
+
+        android:id="@+id/Status"
+        android:layout_width="206dp"
+        android:layout_height="53dp"
+        android:background="@color/carolina_blue"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.569" />
+
+    <Spinner
+        android:background="@color/carolina_blue"
+        android:id="@+id/termid_spinner"
+        android:layout_width="107dp"
+        android:layout_height="51dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.726"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.694" />
+
+    <EditText
+
+        android:background="@color/carolina_blue"
+        android:textColor="@color/mint_cream"
+        android:textColorHint="@color/mint_cream"
+        android:textColorHighlight="@color/mint_cream"
+        android:id="@+id/course_name"
+        android:layout_width="206dp"
+        android:layout_height="53dp"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.205" />
+
+    <Button
+        android:id="@+id/save_course"
+        android:layout_width="143dp"
+        android:layout_height="50dp"
+        android:text="save"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.825" />
+
+    <TextView
+        android:id="@+id/termidtv"
+        android:layout_width="90dp"
+        android:layout_height="32dp"
+        android:layout_marginEnd="20dp"
+        android:text="Term Id"
+        android:textSize="25dp"
+        app:layout_constraintBottom_toBottomOf="@+id/termid_spinner"
+        app:layout_constraintEnd_toStartOf="@+id/termid_spinner"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/termid_spinner"
+        app:layout_constraintVertical_bias="0.526" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

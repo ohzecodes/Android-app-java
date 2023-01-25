@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.StudentProgressTracking"
+        >
+        <activity
+            android:configChanges="orientation|screenSize"
+            android:name=".UI.COURSES.parts.details.AssessmentDetails"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity    android:configChanges="orientation|screenSize"
+            android:name=".UI.COURSES.parts.details.NotesDetails"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity    android:configChanges="orientation|screenSize"
+            android:name=".UI.COURSES.parts.details.InstructorsDetails"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity    android:configChanges="orientation|screenSize"
+            android:name=".UI.COURSES.parts.AddOrModNotes"
+            android:exported="false"
+            android:parentActivityName=".UI.COURSES.CourseList">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity    android:configChanges="orientation|screenSize"
+            android:name=".UI.COURSES.parts.AddOrModAssesments"
+            android:exported="false"
+            android:parentActivityName=".UI.COURSES.CourseList">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity    android:configChanges="orientation|screenSize"
+            android:name=".UI.COURSES.parts.AddOrModifyInstructor"
+            android:exported="false"
+            android:parentActivityName=".UI.COURSES.CourseList"
+            android:windowSoftInputMode="adjustPan">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity    android:configChanges="orientation|screenSize"
+            android:name=".UI.COURSES.CourseDetails"
+            android:exported="false"
+            android:parentActivityName=".UI.COURSES.CourseList">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity    android:configChanges="orientation|screenSize"
+            android:name=".UI.COURSES.CourseList"
+            android:exported="false"
+            android:parentActivityName=".UI.MainActivity">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity    android:configChanges="orientation|screenSize"
+            android:name=".UI.COURSES.AddOrModACourse"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".UI.TERM.TermDetails"
+            android:exported="false"
+            android:parentActivityName=".UI.TERM.TermList">
+            <meta-data    android:configChanges="orientation|screenSize"
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity    android:configChanges="orientation|screenSize"
+            android:name=".UI.TERM.TermList"
+            android:exported="false"
+            android:parentActivityName=".UI.MainActivity">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity    android:configChanges="orientation|screenSize"
+            android:name=".UI.TERM.AddATerm"
+            android:exported="false"
+            android:parentActivityName=".UI.TERM.TermList">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".UI.MainActivity"
+            android:exported="true"
+            android:configChanges="orientation|screenSize"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+    </application>
+
+</manifest>

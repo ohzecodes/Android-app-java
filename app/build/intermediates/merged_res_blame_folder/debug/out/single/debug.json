@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_add_term.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_add_term.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/menu_temp_menu.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/menu/temp_menu.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_fragment_instructor.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/fragment_instructor.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_activity_details_course.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/activity_details_course.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_term_details.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_term_details.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_list_term.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_list_term.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_activity_details_term.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/activity_details_term.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-mdpi_icon.png.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_activity_list_term.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/activity_list_term.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_activity_list_course.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/activity_list_course.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_add_a_term.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_add_a_term.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_fragment_assesments.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/fragment_assesments.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_assesments.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_assesments.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_course_details.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_course_details.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_add_notes.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_add_notes.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-anydpi_deletetrash.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-anydpi/deletetrash.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_activity_add_notes.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/activity_add_notes.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_details_instructors.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_details_instructors.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-anydpi_plus.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-anydpi/plus.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_fragment_course_details.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/fragment_course_details.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-xhdpi_plus.png.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-xhdpi/plus.png"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_activity_add_assesments.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/activity_add_assesments.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-mdpi_deletetrash.png.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-mdpi/deletetrash.png"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-hdpi_icon.png.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/menu_course_menu.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/menu/course_menu.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_fragment_instructor.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/fragment_instructor.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-xxhdpi_plus.png.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-xxhdpi/plus.png"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_term_list.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_term_list.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_activity_add_term.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/activity_add_term.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_add_instructors.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_add_instructors.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_fragment_notes.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/fragment_notes.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_course_list.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_course_list.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_fragment_assesments.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/fragment_assesments.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_fragment_course_details.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/fragment_course_details.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_one_instructor.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/one_instructor.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable_borderradius.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/drawable/borderradius.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/menu_termmenu.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/menu/termmenu.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-xhdpi_deletetrash.png.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-xhdpi/deletetrash.png"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-hdpi_plus.png.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-hdpi/plus.png"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_one_note.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/one_note.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_add_assesments.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_add_assesments.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_activity_add_course.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/activity_add_course.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_activity_details_assesment.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/activity_details_assesment.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-mdpi_plus.png.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-mdpi/plus.png"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_details_term.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_details_term.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_activity_add_instructors.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/activity_add_instructors.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_details_assesment.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_details_assesment.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-hdpi_deletetrash.png.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-hdpi/deletetrash.png"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_one_assesment.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/one_assesment.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_one_course.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/one_course.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-xhdpi_icon.png.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable_ic_baseline_school_24.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/drawable/ic_baseline_school_24.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_fragment_notes.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/fragment_notes.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_one_term.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/one_term.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_activity_main.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_activity_details_instructors.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/activity_details_instructors.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_notes.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_notes.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable_black.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/drawable/black.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_details_notes.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_details_notes.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_list_course.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_list_course.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_addcoursescreen.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_addcoursescreen.xml"
+    },
+    {
+        "merged": "com.example.studentprogresstracking.app-merged_res-32:/layout-land_activity_details_notes.xml.flat",
+        "source": "com.example.studentprogresstracking.app-main-34:/layout-land/activity_details_notes.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout-land_activity_details_notes.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout-land/activity_details_notes.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_instructors_page.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_instructors_page.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-xxhdpi_icon.png.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_details_course.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_details_course.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/layout_activity_add_course.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/layout/activity_add_course.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-anydpi_icon.xml.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-anydpi/icon.xml"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/drawable-xxhdpi_deletetrash.png.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-debug-33:/drawable-xxhdpi/deletetrash.png"
+    },
+    {
+        "merged": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/moze/.gradle/daemon/7.4/com.example.studentprogresstracking.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    }
+]
