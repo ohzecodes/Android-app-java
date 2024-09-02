@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="StatusoftheCourse">
+        <item>Select Status</item>
+        <item>In Progress</item>
+        <item>Completed</item>
+        <item>Dropped</item>
+        <item>Plan to Take</item>
+    </string-array>
+    <color name="Date_picker_bg">@color/carolina_blue</color>
+    <color name="black">#000</color>
+    <color name="brick_red">#d03161</color>
+    <color name="button_color_1">@color/brick_red</color>
+    <color name="button_color_2">@color/carolina_blue</color>
+    <color name="carolina_blue">#449dd1</color>
+    <color name="eastern_blue">#178a94</color>
+    <color name="fab_bg">@color/carolina_blue</color>
+    <color name="grey_300">#e0e0e0</color>
+    <color name="grey_800">#424242</color>
+    <color name="mint_cream"> #f1f7ed</color>
+    <color name="pickled_bluewood">#2B374B</color>
+    <color name="red_800">#c62828</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_color_recycler">@color/mint_cream</color>
+    <color name="white">#FFFFFFFF</color>
+    <item name="course_name" type="id"/>
+    <item name="instructor_details_courseid" type="id"/>
+    <string name="app_name">StudentProgressTracking</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Theme.StudentProgressTracking" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/carolina_blue</item>
+        <item name="colorPrimaryVariant">@color/carolina_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorAccent">@color/brick_red</item>
+        
+
+        
+
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+
+        <item name="android:itemBackground">@color/pickled_bluewood</item>
+        <item name="android:panelBackground">@color/pickled_bluewood</item>
+        
+        <item name="android:textColor">@color/mint_cream</item>
+        <item name="android:actionMenuTextColor">@color/pickled_bluewood</item>
+        <item name="android:colorBackground">@color/pickled_bluewood</item>
+        <item name="android:editTextBackground">@color/carolina_blue</item>
+        <item name="android:textColorHint">@color/mint_cream</item>
+        <item name="android:button">@color/brick_red</item>
+    <item name="android:textColorHighlight">@color/mint_cream</item>
+</style>
+</resources>

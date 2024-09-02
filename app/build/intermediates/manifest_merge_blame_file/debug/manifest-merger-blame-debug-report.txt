@@ -6,287 +6,288 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="26"
-8-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml
+8-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml
+9-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:5:5-124:19
+11-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:5:5-124:19
 12        android:allowBackup="true"
-12-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:6:9-35
+12-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.8.0] /Users/moze/.gradle/caches/transforms-3/87a796fe63836d99a2198ac6a6284cb3/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.8.0] /Users/mohamed/.gradle/caches/transforms-3/87a796fe63836d99a2198ac6a6284cb3/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 14        android:dataExtractionRules="@xml/data_extraction_rules"
-14-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:7:9-65
+14-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:7:9-65
 15        android:debuggable="true"
 16        android:extractNativeLibs="false"
 17        android:fullBackupContent="@xml/backup_rules"
-17-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:8:9-54
+17-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:8:9-54
 18        android:icon="@mipmap/ic_launcher"
-18-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:9:9-43
+18-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:9:9-43
 19        android:label="@string/app_name"
-19-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:10:9-41
+19-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:10:9-41
 20        android:roundIcon="@mipmap/ic_launcher_round"
-20-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:11:9-54
+20-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:11:9-54
 21        android:supportsRtl="true"
-21-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:12:9-35
-22        android:theme="@style/Theme.StudentProgressTracking" >
-22-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:13:9-61
-23        <activity
-23-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:15:9-22:20
-24            android:name="com.example.studentprogresstracking.UI.COURSES.parts.details.AssessmentDetails"
-24-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:17:13-71
-25            android:configChanges="orientation|screenSize"
-25-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:16:13-59
-26            android:exported="false" >
-26-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:18:13-37
-27            <meta-data
-27-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
-28                android:name="android.app.lib_name"
-28-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
-29                android:value="" />
-29-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
-30        </activity>
-31        <activity
-31-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:23:9-29:20
-32            android:name="com.example.studentprogresstracking.UI.COURSES.parts.details.NotesDetails"
-32-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:24:13-66
-33            android:configChanges="orientation|screenSize"
-33-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:23:22-68
-34            android:exported="false" >
-34-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:25:13-37
-35            <meta-data
-35-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
-36                android:name="android.app.lib_name"
-36-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
-37                android:value="" />
-37-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
-38        </activity>
-39        <activity
-39-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:30:9-36:20
-40            android:name="com.example.studentprogresstracking.UI.COURSES.parts.details.InstructorsDetails"
-40-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:31:13-72
-41            android:configChanges="orientation|screenSize"
-41-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:30:22-68
-42            android:exported="false" >
-42-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:32:13-37
-43            <meta-data
-43-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
-44                android:name="android.app.lib_name"
-44-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
-45                android:value="" />
-45-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
-46        </activity>
-47        <activity
-47-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:37:9-44:20
-48            android:name="com.example.studentprogresstracking.UI.COURSES.parts.AddOrModNotes"
-48-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:38:13-59
-49            android:configChanges="orientation|screenSize"
-49-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:37:22-68
-50            android:exported="false"
-50-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:39:13-37
-51            android:parentActivityName="com.example.studentprogresstracking.UI.COURSES.CourseList" >
-51-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:40:13-64
-52            <meta-data
-52-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
-53                android:name="android.app.lib_name"
-53-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
-54                android:value="" />
-54-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
-55        </activity>
-56        <activity
-56-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:45:9-52:20
-57            android:name="com.example.studentprogresstracking.UI.COURSES.parts.AddOrModAssesments"
-57-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:46:13-64
-58            android:configChanges="orientation|screenSize"
-58-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:45:22-68
-59            android:exported="false"
-59-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:47:13-37
-60            android:parentActivityName="com.example.studentprogresstracking.UI.COURSES.CourseList" >
-60-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:48:13-64
-61            <meta-data
-61-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
-62                android:name="android.app.lib_name"
-62-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
-63                android:value="" />
-63-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
-64        </activity>
-65        <activity
-65-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:53:9-61:20
-66            android:name="com.example.studentprogresstracking.UI.COURSES.parts.AddOrModifyInstructor"
-66-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:54:13-67
-67            android:configChanges="orientation|screenSize"
-67-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:53:22-68
-68            android:exported="false"
-68-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:55:13-37
-69            android:parentActivityName="com.example.studentprogresstracking.UI.COURSES.CourseList"
-69-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:56:13-64
-70            android:windowSoftInputMode="adjustPan" >
-70-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:57:13-52
-71            <meta-data
-71-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
-72                android:name="android.app.lib_name"
-72-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
-73                android:value="" />
-73-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
-74        </activity>
-75        <activity
-75-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:62:9-69:20
-76            android:name="com.example.studentprogresstracking.UI.COURSES.CourseDetails"
-76-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:63:13-53
-77            android:configChanges="orientation|screenSize"
-77-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:62:22-68
-78            android:exported="false"
-78-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:64:13-37
-79            android:parentActivityName="com.example.studentprogresstracking.UI.COURSES.CourseList" >
-79-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:65:13-64
-80            <meta-data
-80-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
-81                android:name="android.app.lib_name"
-81-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
-82                android:value="" />
-82-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
-83        </activity>
-84        <activity
-84-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:70:9-77:20
-85            android:name="com.example.studentprogresstracking.UI.COURSES.CourseList"
-85-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:71:13-50
-86            android:configChanges="orientation|screenSize"
-86-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:70:22-68
-87            android:exported="false"
-87-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:72:13-37
-88            android:parentActivityName="com.example.studentprogresstracking.UI.MainActivity" >
-88-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:73:13-58
-89            <meta-data
-89-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
-90                android:name="android.app.lib_name"
-90-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
-91                android:value="" />
-91-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
-92        </activity>
-93        <activity
-93-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:78:9-84:20
-94            android:name="com.example.studentprogresstracking.UI.COURSES.AddOrModACourse"
-94-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:79:13-55
-95            android:configChanges="orientation|screenSize"
-95-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:78:22-68
-96            android:exported="false" >
-96-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:80:13-37
-97            <meta-data
-97-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
-98                android:name="android.app.lib_name"
-98-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
-99                android:value="" />
-99-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
-100        </activity>
-101        <activity
-101-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:85:9-92:20
-102            android:name="com.example.studentprogresstracking.UI.TERM.TermDetails"
-102-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:86:13-48
-103            android:exported="false"
-103-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:87:13-37
-104            android:parentActivityName="com.example.studentprogresstracking.UI.TERM.TermList" >
-104-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:88:13-59
-105            <meta-data
-105-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
-106                android:name="android.app.lib_name"
-106-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
-107                android:configChanges="orientation|screenSize"
-107-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:89:27-73
-108                android:value="" />
-108-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
-109        </activity>
-110        <activity
-110-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:93:9-100:20
-111            android:name="com.example.studentprogresstracking.UI.TERM.TermList"
-111-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:94:13-45
-112            android:configChanges="orientation|screenSize"
-112-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:93:22-68
-113            android:exported="false"
-113-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:95:13-37
-114            android:parentActivityName="com.example.studentprogresstracking.UI.MainActivity" >
-114-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:96:13-58
-115            <meta-data
-115-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
-116                android:name="android.app.lib_name"
-116-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
-117                android:value="" />
-117-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
-118        </activity>
-119        <activity
-119-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:101:9-108:20
-120            android:name="com.example.studentprogresstracking.UI.TERM.AddATerm"
-120-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:102:13-45
-121            android:configChanges="orientation|screenSize"
-121-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:101:22-68
-122            android:exported="false"
-122-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:103:13-37
-123            android:parentActivityName="com.example.studentprogresstracking.UI.TERM.TermList" >
-123-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:104:13-59
-124            <meta-data
-124-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
-125                android:name="android.app.lib_name"
-125-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
-126                android:value="" />
-126-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
-127        </activity>
-128        <activity
-128-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:109:9-123:20
-129            android:name="com.example.studentprogresstracking.UI.MainActivity"
-129-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:110:13-44
-130            android:configChanges="orientation|screenSize"
-130-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:112:13-59
-131            android:exported="true" >
-131-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:111:13-36
-132            <intent-filter>
-132-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:114:13-118:29
-133                <action android:name="android.intent.action.MAIN" />
-133-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:115:17-69
-133-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:115:25-66
-134
-135                <category android:name="android.intent.category.LAUNCHER" />
-135-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:117:17-77
-135-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:117:27-74
-136            </intent-filter>
-137
-138            <meta-data
-138-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
-139                android:name="android.app.lib_name"
-139-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
-140                android:value="" />
-140-->/Users/moze/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
-141        </activity>
-142
-143        <service
-143-->[androidx.room:room-runtime:2.4.3] /Users/moze/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/AndroidManifest.xml:25:9-28:40
-144            android:name="androidx.room.MultiInstanceInvalidationService"
-144-->[androidx.room:room-runtime:2.4.3] /Users/moze/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/AndroidManifest.xml:26:13-74
-145            android:directBootAware="true"
-145-->[androidx.room:room-runtime:2.4.3] /Users/moze/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/AndroidManifest.xml:27:13-43
-146            android:exported="false" />
-146-->[androidx.room:room-runtime:2.4.3] /Users/moze/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/AndroidManifest.xml:28:13-37
-147
-148        <provider
-148-->[androidx.emoji2:emoji2:1.2.0] /Users/moze/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-149            android:name="androidx.startup.InitializationProvider"
-149-->[androidx.emoji2:emoji2:1.2.0] /Users/moze/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
-150            android:authorities="com.example.studentprogresstracking.androidx-startup"
-150-->[androidx.emoji2:emoji2:1.2.0] /Users/moze/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
-151            android:exported="false" >
-151-->[androidx.emoji2:emoji2:1.2.0] /Users/moze/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
-152            <meta-data
-152-->[androidx.emoji2:emoji2:1.2.0] /Users/moze/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
-153                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-153-->[androidx.emoji2:emoji2:1.2.0] /Users/moze/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
-154                android:value="androidx.startup" />
-154-->[androidx.emoji2:emoji2:1.2.0] /Users/moze/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
-155            <meta-data
-155-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/moze/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
-156                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-156-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/moze/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
-157                android:value="androidx.startup" />
-157-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/moze/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
-158        </provider>
-159    </application>
-160
-161</manifest>
+21-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:12:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.StudentProgressTracking" >
+23-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:13:9-61
+24        <activity
+24-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:15:9-22:20
+25            android:name="com.example.studentprogresstracking.UI.COURSES.parts.details.AssessmentDetails"
+25-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:17:13-71
+26            android:configChanges="orientation|screenSize"
+26-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:16:13-59
+27            android:exported="false" >
+27-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:18:13-37
+28            <meta-data
+28-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
+29                android:name="android.app.lib_name"
+29-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
+30                android:value="" />
+30-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
+31        </activity>
+32        <activity
+32-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:23:9-29:20
+33            android:name="com.example.studentprogresstracking.UI.COURSES.parts.details.NotesDetails"
+33-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:24:13-66
+34            android:configChanges="orientation|screenSize"
+34-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:23:22-68
+35            android:exported="false" >
+35-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:25:13-37
+36            <meta-data
+36-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
+37                android:name="android.app.lib_name"
+37-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
+38                android:value="" />
+38-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
+39        </activity>
+40        <activity
+40-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:30:9-36:20
+41            android:name="com.example.studentprogresstracking.UI.COURSES.parts.details.InstructorsDetails"
+41-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:31:13-72
+42            android:configChanges="orientation|screenSize"
+42-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:30:22-68
+43            android:exported="false" >
+43-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:32:13-37
+44            <meta-data
+44-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
+45                android:name="android.app.lib_name"
+45-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
+46                android:value="" />
+46-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
+47        </activity>
+48        <activity
+48-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:37:9-44:20
+49            android:name="com.example.studentprogresstracking.UI.COURSES.parts.AddOrModNotes"
+49-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:38:13-59
+50            android:configChanges="orientation|screenSize"
+50-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:37:22-68
+51            android:exported="false"
+51-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:39:13-37
+52            android:parentActivityName="com.example.studentprogresstracking.UI.COURSES.CourseList" >
+52-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:40:13-64
+53            <meta-data
+53-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
+54                android:name="android.app.lib_name"
+54-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
+55                android:value="" />
+55-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
+56        </activity>
+57        <activity
+57-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:45:9-52:20
+58            android:name="com.example.studentprogresstracking.UI.COURSES.parts.AddOrModAssesments"
+58-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:46:13-64
+59            android:configChanges="orientation|screenSize"
+59-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:45:22-68
+60            android:exported="false"
+60-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:47:13-37
+61            android:parentActivityName="com.example.studentprogresstracking.UI.COURSES.CourseList" >
+61-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:48:13-64
+62            <meta-data
+62-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
+63                android:name="android.app.lib_name"
+63-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
+64                android:value="" />
+64-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
+65        </activity>
+66        <activity
+66-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:53:9-61:20
+67            android:name="com.example.studentprogresstracking.UI.COURSES.parts.AddOrModifyInstructor"
+67-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:54:13-67
+68            android:configChanges="orientation|screenSize"
+68-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:53:22-68
+69            android:exported="false"
+69-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:55:13-37
+70            android:parentActivityName="com.example.studentprogresstracking.UI.COURSES.CourseList"
+70-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:56:13-64
+71            android:windowSoftInputMode="adjustPan" >
+71-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:57:13-52
+72            <meta-data
+72-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
+73                android:name="android.app.lib_name"
+73-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
+74                android:value="" />
+74-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
+75        </activity>
+76        <activity
+76-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:62:9-69:20
+77            android:name="com.example.studentprogresstracking.UI.COURSES.CourseDetails"
+77-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:63:13-53
+78            android:configChanges="orientation|screenSize"
+78-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:62:22-68
+79            android:exported="false"
+79-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:64:13-37
+80            android:parentActivityName="com.example.studentprogresstracking.UI.COURSES.CourseList" >
+80-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:65:13-64
+81            <meta-data
+81-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
+82                android:name="android.app.lib_name"
+82-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
+83                android:value="" />
+83-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
+84        </activity>
+85        <activity
+85-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:70:9-77:20
+86            android:name="com.example.studentprogresstracking.UI.COURSES.CourseList"
+86-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:71:13-50
+87            android:configChanges="orientation|screenSize"
+87-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:70:22-68
+88            android:exported="false"
+88-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:72:13-37
+89            android:parentActivityName="com.example.studentprogresstracking.UI.MainActivity" >
+89-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:73:13-58
+90            <meta-data
+90-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
+91                android:name="android.app.lib_name"
+91-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
+92                android:value="" />
+92-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
+93        </activity>
+94        <activity
+94-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:78:9-84:20
+95            android:name="com.example.studentprogresstracking.UI.COURSES.AddOrModACourse"
+95-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:79:13-55
+96            android:configChanges="orientation|screenSize"
+96-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:78:22-68
+97            android:exported="false" >
+97-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:80:13-37
+98            <meta-data
+98-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
+99                android:name="android.app.lib_name"
+99-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
+100                android:value="" />
+100-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
+101        </activity>
+102        <activity
+102-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:85:9-92:20
+103            android:name="com.example.studentprogresstracking.UI.TERM.TermDetails"
+103-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:86:13-48
+104            android:exported="false"
+104-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:87:13-37
+105            android:parentActivityName="com.example.studentprogresstracking.UI.TERM.TermList" >
+105-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:88:13-59
+106            <meta-data
+106-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
+107                android:name="android.app.lib_name"
+107-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
+108                android:configChanges="orientation|screenSize"
+108-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:89:27-73
+109                android:value="" />
+109-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
+110        </activity>
+111        <activity
+111-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:93:9-100:20
+112            android:name="com.example.studentprogresstracking.UI.TERM.TermList"
+112-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:94:13-45
+113            android:configChanges="orientation|screenSize"
+113-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:93:22-68
+114            android:exported="false"
+114-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:95:13-37
+115            android:parentActivityName="com.example.studentprogresstracking.UI.MainActivity" >
+115-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:96:13-58
+116            <meta-data
+116-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
+117                android:name="android.app.lib_name"
+117-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
+118                android:value="" />
+118-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
+119        </activity>
+120        <activity
+120-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:101:9-108:20
+121            android:name="com.example.studentprogresstracking.UI.TERM.AddATerm"
+121-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:102:13-45
+122            android:configChanges="orientation|screenSize"
+122-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:101:22-68
+123            android:exported="false"
+123-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:103:13-37
+124            android:parentActivityName="com.example.studentprogresstracking.UI.TERM.TermList" >
+124-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:104:13-59
+125            <meta-data
+125-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
+126                android:name="android.app.lib_name"
+126-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
+127                android:value="" />
+127-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
+128        </activity>
+129        <activity
+129-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:109:9-123:20
+130            android:name="com.example.studentprogresstracking.UI.MainActivity"
+130-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:110:13-44
+131            android:configChanges="orientation|screenSize"
+131-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:112:13-59
+132            android:exported="true" >
+132-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:111:13-36
+133            <intent-filter>
+133-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:114:13-118:29
+134                <action android:name="android.intent.action.MAIN" />
+134-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:115:17-69
+134-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:115:25-66
+135
+136                <category android:name="android.intent.category.LAUNCHER" />
+136-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:117:17-77
+136-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:117:27-74
+137            </intent-filter>
+138
+139            <meta-data
+139-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:19:13-21:36
+140                android:name="android.app.lib_name"
+140-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:20:17-52
+141                android:value="" />
+141-->/Users/mohamed/AndroidStudioProjects/StudentProgressTracking/app/src/main/AndroidManifest.xml:21:17-33
+142        </activity>
+143
+144        <service
+144-->[androidx.room:room-runtime:2.4.3] /Users/mohamed/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/AndroidManifest.xml:25:9-28:40
+145            android:name="androidx.room.MultiInstanceInvalidationService"
+145-->[androidx.room:room-runtime:2.4.3] /Users/mohamed/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/AndroidManifest.xml:26:13-74
+146            android:directBootAware="true"
+146-->[androidx.room:room-runtime:2.4.3] /Users/mohamed/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/AndroidManifest.xml:27:13-43
+147            android:exported="false" />
+147-->[androidx.room:room-runtime:2.4.3] /Users/mohamed/.gradle/caches/transforms-3/4c4bbe8def8631c1151c061ee75b6868/transformed/room-runtime-2.4.3/AndroidManifest.xml:28:13-37
+148
+149        <provider
+149-->[androidx.emoji2:emoji2:1.2.0] /Users/mohamed/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+150            android:name="androidx.startup.InitializationProvider"
+150-->[androidx.emoji2:emoji2:1.2.0] /Users/mohamed/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+151            android:authorities="com.example.studentprogresstracking.androidx-startup"
+151-->[androidx.emoji2:emoji2:1.2.0] /Users/mohamed/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+152            android:exported="false" >
+152-->[androidx.emoji2:emoji2:1.2.0] /Users/mohamed/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+153            <meta-data
+153-->[androidx.emoji2:emoji2:1.2.0] /Users/mohamed/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+154                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+154-->[androidx.emoji2:emoji2:1.2.0] /Users/mohamed/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+155                android:value="androidx.startup" />
+155-->[androidx.emoji2:emoji2:1.2.0] /Users/mohamed/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+156            <meta-data
+156-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mohamed/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+157                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+157-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mohamed/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+158                android:value="androidx.startup" />
+158-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/mohamed/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+159        </provider>
+160    </application>
+161
+162</manifest>
